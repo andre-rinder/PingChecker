@@ -10,9 +10,9 @@ hostlist.txt <br/>
 google.com <br/>
 klsadflkasd <br/>
 
-results.csv
-google.com, True
-klsadflkasd, False
+results.csv <br/>
+google.com, True <br/>
+klsadflkasd, False <br/>
 
 ### Prerequisites
 
